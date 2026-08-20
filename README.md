@@ -40,7 +40,6 @@ Bash ou Zsh:
 export GEMINI_API_KEY="SUA_CHAVE_AQUI"
 ```
 
-A chave não deve ser colocada no código nem publicada no GitHub.
 
 ## Execução
 
